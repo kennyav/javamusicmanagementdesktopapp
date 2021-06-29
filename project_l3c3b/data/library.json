@@ -1,0 +1,52 @@
+{
+    "albumLibrary": [{
+        "albumName": "Album",
+        "albumGenre": "Hip-Hop",
+        "albumArtist": "Kenny",
+        "albumSongs": [
+            "sog",
+            "fko",
+            "sd",
+            "df"
+        ]
+    }],
+    "songLibrary": [
+        {
+            "songName": "Song1",
+            "songGenre": "Hip-Hop",
+            "songArtist": "Kenny"
+        },
+        {
+            "songName": "sog",
+            "songGenre": "Hip-Hop",
+            "songArtist": "Kenny"
+        },
+        {
+            "songName": "fko",
+            "songGenre": "Hip-Hop",
+            "songArtist": "Kenny"
+        },
+        {
+            "songName": "sd",
+            "songGenre": "Hip-Hop",
+            "songArtist": "Kenny"
+        },
+        {
+            "songName": "df",
+            "songGenre": "Hip-Hop",
+            "songArtist": "Kenny"
+        }
+    ],
+    "genreLibrary": {
+        "Rap": 0,
+        "Pop": 0,
+        "Country": 0,
+        "Rock": 0,
+        "Hip-Hop": 3,
+        "EDM": 0
+    },
+    "artistLibrary": [{
+        "artistName": "Kenny",
+        "artistGenre": "Hip-Hop"
+    }]
+}

@@ -1,0 +1,34 @@
+{
+    "albumLibrary": [{
+        "albumName": "Name",
+        "albumGenre": "Genre",
+        "albumArtist": "Artist",
+        "albumSongs": [
+            "Song1",
+            "Song2",
+            "Song3"
+        ]
+    }],
+    "songLibrary": [
+        {
+            "songName": "Song1",
+            "songGenre": "Genre",
+            "songArtist": "Artist"
+        },
+        {
+            "songName": "Song2",
+            "songGenre": "Genre",
+            "songArtist": "Artist"
+        },
+        {
+            "songName": "Song3",
+            "songGenre": "Genre",
+            "songArtist": "Artist"
+        }
+    ],
+    "genreLibrary": {},
+    "artistLibrary": [{
+        "artistName": "Artist",
+        "artistGenre": "Genre"
+    }]
+}
